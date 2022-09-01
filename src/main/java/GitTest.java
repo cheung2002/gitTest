@@ -5,5 +5,6 @@ public class GitTest {
         System.out.println("hello.git3");
         System.out.println("forth");
         System.out.println("master");
+        System.out.println("succeed pull");
     }
 }
